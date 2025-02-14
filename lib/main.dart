@@ -46,7 +46,7 @@ class LocaleString extends Translations {
           'hello': 'Hello World',
         },
         'th_TH': {
-          'hello': 'สวัสดี',
+          'hello': 'สวัสดีคา้บบ',
         }
       };
 }
