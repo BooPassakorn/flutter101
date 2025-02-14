@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855060957308",
+    "project_id": "flutter-workshop-a3daa",
+    "storage_bucket": "flutter-workshop-a3daa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855060957308:android:66fb2b608ed3138ccf61f9",
+        "android_client_info": {
+          "package_name": "com.example.workshop.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACShFxqA61v5CGtNM1SsbEniBOS2rWYWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
